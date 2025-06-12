@@ -1,0 +1,11 @@
+# Platelets_Model
+
+This folder contains all code and resources for predicting Platelets (PL) count using a neural network model.
+
+## Contents
+
+- `PL_Training_Notebook.ipynb`: Full end-to-end workflow in Jupyter notebook.
+- `data_preprocessing_PL.py`: Prepares and scales the input dataset.
+- `train_model_PL.py`: Trains the neural network on preprocessed data.
+- `shap_analysis_PL.ipynb`: SHAP-based model interpretation.
+- `saved_models_PL/`: Contains best trained model weights.
