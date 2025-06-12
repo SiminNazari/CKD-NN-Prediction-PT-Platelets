@@ -1,6 +1,6 @@
 # PT_Model
 
-This folder contains all the codes and resources for predicting Prothrombin Time (PT) using a neural network model.
+This folder contains all the codes and resources for predicting Prothrombin Time (PT) using a neural network model.  
 
 ## Contents
 - `PT_Training_Notebook.ipynb`: Full end-to-end workflow in Jupyter notebook.
