@@ -1,6 +1,6 @@
 # PT_Model
 
-This folder contains all code and resources for predicting Prothrombin Time (PT) using a neural network model.
+This folder contains all the codes and resources for predicting Prothrombin Time (PT) using a neural network model.
 
 ## Contents
 
