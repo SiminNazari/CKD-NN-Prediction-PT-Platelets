@@ -1,3 +1,14 @@
-PT_Model This folder contains all the codes and resources for predicting Prothrombin Time (PT) using a neural network model.
+PL_Model
+This folder contains all the code and resources for predicting platelet count (PL) using a neural network model.
 
-Contents PT_Training_Notebook.ipynb: Full end-to-end workflow in Jupyter notebook. data_preprocessing_pt.py: Prepares and scales the input dataset. train_model_pt.py: Trains the neural network on sdfghj data. shap_analysis_pt.ipynb: SHAP-based model interpretation. saved_models_pt/: Contains best trained model weights.
+Contents:
+
+PL_Training_Notebook.ipynb: Full end-to-end workflow implemented in a Jupyter notebook.
+
+data_preprocessing_PL.py: Prepares and scales the input dataset specific to platelet count prediction.
+
+train_model_PL.py: Trains the neural network on the preprocessed data.
+
+shap_analysis_PL.ipynb: SHAP-based analysis for interpreting feature importance.
+
+saved_models_PL/: Contains the best trained model weights for reuse and reproducibility.
